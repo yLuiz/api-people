@@ -1,1 +1,1 @@
-API Restful com integrada com MongoDB em nuvem.
+API Restful de cadastro de pessoas, integrada com MongoDB em nuvem.
